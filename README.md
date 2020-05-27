@@ -1,3 +1,4 @@
+[![Build Status](https://primedpaul.visualstudio.com/Space%20Game%20Pipeline%20Demo/_apis/build/status/PrimedPaul.mslearn-tailspin-spacegame-web?branchName=master)](https://primedpaul.visualstudio.com/Space%20Game%20Pipeline%20Demo/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
